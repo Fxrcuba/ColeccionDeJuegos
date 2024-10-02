@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D4674242CAB734C00D4641A /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D4674232CAB734C00D4641A /* JuegosViewController.swift */; };
 		9DCC5B212CAB621900ED4FD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC5B202CAB621900ED4FD8 /* AppDelegate.swift */; };
 		9DCC5B232CAB621900ED4FD8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC5B222CAB621900ED4FD8 /* SceneDelegate.swift */; };
 		9DCC5B252CAB621900ED4FD8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC5B242CAB621900ED4FD8 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D4674232CAB734C00D4641A /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		9DCC5B1D2CAB621900ED4FD8 /* CubaColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CubaColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DCC5B202CAB621900ED4FD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DCC5B222CAB621900ED4FD8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				9DCC5B222CAB621900ED4FD8 /* SceneDelegate.swift */,
 				9DCC5B242CAB621900ED4FD8 /* ViewController.swift */,
 				9DCC5B262CAB621900ED4FD8 /* Main.storyboard */,
+				9D4674232CAB734C00D4641A /* JuegosViewController.swift */,
 				9DCC5B2C2CAB621A00ED4FD8 /* Assets.xcassets */,
 				9DCC5B2E2CAB621A00ED4FD8 /* LaunchScreen.storyboard */,
 				9DCC5B312CAB621A00ED4FD8 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D4674242CAB734C00D4641A /* JuegosViewController.swift in Sources */,
 				9DCC5B252CAB621900ED4FD8 /* ViewController.swift in Sources */,
 				9DCC5B212CAB621900ED4FD8 /* AppDelegate.swift in Sources */,
 				9DCC5B2B2CAB621900ED4FD8 /* CubaColeccionDeJuegos.xcdatamodeld in Sources */,
@@ -291,6 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CubaColeccionDeJuegos/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -318,6 +323,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = CubaColeccionDeJuegos/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
